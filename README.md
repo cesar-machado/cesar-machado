@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **cesar-machado/cesar-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm César Machado! :D
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cesar-machado)](https://github.com/cesar-machado)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-mach//)](https://www.linkedin.com/in/cesar-mach/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cesarmach30/)](https://twitter.com/cesarmach30/)
+
+
+### About me
+I'm a Frontend Developer and instructor at [@InstitutoStefanini](https://institutostefaniniead.com.br/ead/).
+
+#### Currently I'm focused on
+
+- JavaScript, TypeScript, React js, Next js, React Native, Node js.
+- Aws and Azure.
