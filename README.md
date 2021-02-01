@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ###  Hey, I'm César Machado 👋🏾
-I'm a Frontend Developer. I'm from Brazil, and I'm currently living in Brazil.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-mach//)](https://www.linkedin.com/in/cesar-mach/)
