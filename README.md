@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm César Machado! :D
+###  Hey, I'm César Machado 👋🏾
+I'm a Frontend Developer. I'm from Brazil, and I'm currently living in Brazil.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cesar-machado)](https://github.com/cesar-machado)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-mach//)](https://www.linkedin.com/in/cesar-mach/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cesarmach30/)](https://twitter.com/cesarmach30/)
 
