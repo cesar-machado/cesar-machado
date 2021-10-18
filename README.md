@@ -27,6 +27,7 @@ I'm a Frontend Developer and instructor at [@InstitutoStefanini](https://institu
 <div align="center">
   <img height=160px src="https://github-readme-stats.vercel.app/api?username=cesar-machado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Cesar-machado" />
   <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=cesar-machado&layout=compact&langs_count=16&theme=dracula" alt="Cesar-machado" />
+</div>
 
 #### Currently I'm focused on
 
