@@ -24,9 +24,15 @@ Here are some ideas to get you started:
 
 I'm a Frontend Developer and instructor at [@InstitutoStefanini](https://institutostefaniniead.com.br/ead/).
 
+<<<<<<< HEAD
 <div align="center">
   <img height=160px src="https://github-readme-stats.vercel.app/api?username=cesar-machado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Cesar-machado" />
   <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=cesar-machado&layout=compact&langs_count=16&theme=dracula" alt="Cesar-machado" />
+=======
+<div >
+  <img height=160px src="https://github-readme-stats.vercel.app/api?username=cesar-machado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"" alt="Cesar-machado" />
+  <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=cesar-machado&layout=compact&langs_count=16&theme=dracula"" alt="Cesar-machado" />
+>>>>>>> b9fa2c723a9033f382c43e2de6ca4c5420c8c521
 </div>
 
 #### Currently I'm focused on
