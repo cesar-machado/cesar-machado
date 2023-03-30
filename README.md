@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-I'm a Mobile Developer and instructor at [@InstitutoStefanini](https://institutostefaniniead.com.br/ead/).
+I'm a Mobile Developer.
 
 <div align="center">
   <img height=160px src="https://github-readme-stats.vercel.app/api?username=cesar-machado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Cesar-machado" />
@@ -31,4 +31,4 @@ I'm a Mobile Developer and instructor at [@InstitutoStefanini](https://instituto
 
 #### Currently I'm focused on
 
-- Kotlin, Android, React Native,
+- Kotlin, Android, React Native.
