@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hey, I'm César Machado 👋🏾
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-mach//)](https://www.linkedin.com/in/cesar-mach/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cesarmach30/)](https://twitter.com/cesarmach30/)
+
 
 ### About me
 
