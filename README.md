@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 I'm a Mobile Developer.
 
 <div align="center">
-  <img height=160px src="https://github-readme-stats.vercel.app/api?username=cesar-machado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Cesar-machado" />
-  <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=cesar-machado&layout=compact&langs_count=16&theme=dracula" alt="Cesar-machado" />
+  <img height=160px src="https://github-readme-stats.vercel.app/api?username=Cesar-machado&show_icons=true&theme=radical" alt="Cesar-machado" />
+<!--   <img height=160px src="https://github-readme-stats.vercel.app/api?username=cesar-machado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Cesar-machado" /> -->
+  <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=cesar-machado&layout=compact&la****ngs_count=16&theme=dracula" alt="Cesar-machado" />
 </div>
 
 #### Currently I'm focused on
