@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 
 
 ### About me
+I am a passionate Full Stack Developer with a strong foundation in building robust and scalable applications. Specializing in backend development with C# and .NET Core, I create efficient and secure server-side solutions that power dynamic and high-performance applications.
 
-I'm a Software Developer.
+On the frontend, I leverage Blazor, React, and React Native to design and develop intuitive and responsive user interfaces. My goal is to deliver seamless and engaging user experiences that meet the unique needs of each project and client.
+
 
 <div align="center">
   <img height=160px src="https://github-readme-stats.vercel.app/api?username=Cesar-machado&show_icons=true&theme=radical" alt="Cesar-machado" />
@@ -42,13 +44,16 @@ I'm a Software Developer.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100"/>
     </td>
     <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="100"/>
+    </td>
+    <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="100"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="100"/>
     </td>
     <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="100"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="100"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100"/>
@@ -56,29 +61,21 @@ I'm a Software Developer.
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" />
     </td>
-        <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="100"/>
-    </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"  width="100"/>
     </td>
+   
   </tr>
   
   <tr>
      <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" width="100"/>
-    </td>
-    <td>
-       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jest/jest-plain.svg" />
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" width="100"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" width="100"/>
     </td>
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
@@ -92,16 +89,14 @@ I'm a Software Developer.
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     </td>
-   
-    
-  </tr>
-   
-  <td>
+    <td>
         <img  src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/android/android-original.svg" alt="android" >
     </td>
     <td>
        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jetpackcompose/jetpackcompose-original.svg" alt="Compose">
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" />
     </td>
@@ -111,14 +106,7 @@ I'm a Software Developer.
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/junit/junit-original-wordmark.svg" />
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jest/jest-plain.svg" />
-    </td>
-    https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jest/jest-plain.svg
-  
   </tr>
-  
- 
 </table>
 <br/>
 
